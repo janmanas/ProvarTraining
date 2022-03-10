@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testCase id="6">
+<testCase id="7">
   <summary/>
   <steps>
     <apiCall apiId="com.provar.plugins.bundled.apis.restservice.WebConnect" name="WebConnect" testItemId="1" title="Web Connect: WebServiceConnection">
@@ -187,7 +187,7 @@
           <value class="value" valueClass="string">Content-Type:application/json</value>
         </argument>
         <argument id="restBody">
-          <value class="value" valueClass="string">{\n\t"userid":504,\n\t"id":"101",\n\t"title":"we are in training",\n\t"body":"Company"\n}</value>
+          <value class="value" valueClass="string">{\n\t"userid":504,\n\t"id":"101",\n\t"title":"we are in training",\n\t"body":"Accenture Company"\n}</value>
         </argument>
         <argument id="restAttachments">
           <value class="valueList" mutable="Mutable"/>
